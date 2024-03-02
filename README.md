@@ -3,6 +3,7 @@
 **BookPal-AI** is a Python application designed to enhance your reading experience with the power of Language Models (LLMs). You can engage in natural language conversations about your documents, which may include PDFs, CSVs, or plain text files. BookPal-AI utilizes advanced language models, such as ChatOpenAI or instructor-xl, to provide accurate responses based on the content of your uploaded documents. Keep in mind that the application will respond only to questions related to the loaded documents.
 
 ![BookPal-AI Showcase](Screenshot.png)
+![BookPal-AI Showcase](Screenshot2.png)
 
 ## How to Use:
 
